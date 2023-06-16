@@ -8,3 +8,8 @@
 	url = https://github.com/shanpengli/fastjm
 	shallow = true
 	registered = true
+[submodule "JMH"]
+	path = JMH
+	url = https://github.com/shanpengli/jmh
+	shallow = true
+	registered = true
