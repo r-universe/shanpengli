@@ -8,3 +8,6 @@
 [submodule "JMH"]
 	path = JMH
 	url = https://github.com/shanpengli/jmh
+[submodule "PDXpower"]
+	path = PDXpower
+	url = https://github.com/shanpengli/pdxpower
